@@ -14,7 +14,7 @@
             <th>Kelas</th>
         </tr>
         <tr>
-            <td>Robbyfadillah</td>
+            <td>Roby fadillah</td>
             <td>312110461</td>
             <td>TI.21.C.5</td>
         </tr>
